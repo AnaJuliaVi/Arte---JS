@@ -1,1 +1,1 @@
-# Arte---JS
+# Arte-JS
